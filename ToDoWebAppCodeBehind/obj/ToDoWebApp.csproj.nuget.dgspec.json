@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjp\\OneDrive - Andeza\\Desktop\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj": {}
+    "C:\\Users\\keith\\Desktop\\ASP.NET Web APP Using API\\ASP.NET-API\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjp\\OneDrive - Andeza\\Desktop\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj": {
+    "C:\\Users\\keith\\Desktop\\ASP.NET Web APP Using API\\ASP.NET-API\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjp\\OneDrive - Andeza\\Desktop\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\keith\\Desktop\\ASP.NET Web APP Using API\\ASP.NET-API\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj",
         "projectName": "ToDoWebApp",
-        "projectPath": "C:\\Users\\mjp\\OneDrive - Andeza\\Desktop\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj",
-        "packagesPath": "C:\\Users\\mjp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjp\\OneDrive - Andeza\\Desktop\\ToDoWebAppCodeBehind\\obj\\",
+        "projectPath": "C:\\Users\\keith\\Desktop\\ASP.NET Web APP Using API\\ASP.NET-API\\ToDoWebAppCodeBehind\\ToDoWebApp.csproj",
+        "packagesPath": "C:\\Users\\keith\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keith\\Desktop\\ASP.NET Web APP Using API\\ASP.NET-API\\ToDoWebAppCodeBehind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mjp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\keith\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -46,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
